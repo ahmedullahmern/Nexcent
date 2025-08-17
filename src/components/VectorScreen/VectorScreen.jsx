@@ -101,6 +101,7 @@ function VectorScreen() {
                 </div>
 
                 {/* TEXT SECTION */}
+                
                 <div className="w-full md:w-1/2 flex flex-col gap-5 text-left">
                     <h1 className="font-bold text-3xl text-[#4D4D4D]">
                         How to design your site footer like we did
